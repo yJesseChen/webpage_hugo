@@ -1,15 +1,66 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ABOUT ME on @YChen</title>
+    <title>@YChen</title>
     <link>/</link>
-    <description>Recent content in ABOUT ME on </description>
+    <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© Copyright notice | Yuan Chen 2020 activated by Hugo</copyright>
+    <copyright>© Copyright notice | Yuan Chen 2021 activated by Hugo</copyright>
     
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title></title>
+      <link>/info/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/info/</guid>
+      <description>
+      
+      Contact Information  &#43;1 (202)-6296-202 chen.11050  osu.edu Math Tower, 231 West 18th Avenue, Columbus, OH Ruoshui’...
+      
+      </description>
+    </item>
+    <item>
+      <title></title>
+      <link>/presentations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/presentations/</guid>
+      <description>
+      
+      Talks  Mar 13-15, University of Virginia, Charlottesville, VA.
+Conference: AMS Spring Southeastern Sectional Meeting
+Con...
+      
+      </description>
+    </item>
+    <item>
+      <title></title>
+      <link>/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/</guid>
+      <description>
+      
+      Journal Publications  Yuan Chen, Xu Zhang
+A \(\mathcal{P}_2\)-\(\mathcal{P}_1\) Partially Penalized Immersed Finite Elem...
+      
+      </description>
+    </item>
+    <item>
+      <title></title>
+      <link>/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/research/</guid>
+      <description>
+      
+      Research Interests  Numerical Methods for Partial Differential Eq.s: Finite Element Method Stochastic Methods for Partia...
+      
+      </description>
+    </item>
     <item>
       <title>CV</title>
       <link>/cv/</link>
@@ -32,57 +83,6 @@
       <description>
       
       I have worked in 2 companies in field of smart grid and Internet. In the future, I wish to work in internet companies as...
-      
-      </description>
-    </item>
-    <item>
-      <title>INFOMATION &amp; LINKS</title>
-      <link>/info/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/info/</guid>
-      <description>
-      
-      Contact Information  &#43;86 13851270219 or &#43;1 (202)6296-202 yuan_chen  gwu.edu Depatment of Statistics, George Washington U...
-      
-      </description>
-    </item>
-    <item>
-      <title>PUBLICATIONS</title>
-      <link>/publications/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/publications/</guid>
-      <description>
-      
-      Journal Publications  Yuan Chen, Songming Hou, Xu Zhang
-An Immersed Finite Element Method for Elliptic Interface Problem...
-      
-      </description>
-    </item>
-    <item>
-      <title>RESEARCH</title>
-      <link>/research/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/research/</guid>
-      <description>
-      
-      Research Interests  Numerical Methods for Partial Differential Eq.s: Finite Element Method Stochastic Methods for Partia...
-      
-      </description>
-    </item>
-    <item>
-      <title>TALKS And POSTERS</title>
-      <link>/presentations/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/presentations/</guid>
-      <description>
-      
-      Talks  Mar 13-15, University of Virginia, Charlottesville, VA.
-Conference: AMS Spring Southeastern Sectional Meeting
-Con...
       
       </description>
     </item>
