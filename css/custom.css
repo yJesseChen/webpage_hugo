@@ -286,15 +286,15 @@ table th {
 }
 
 #mainmenu nav {
-  border-top: 1px solid #eee;
-  border-bottom: 1px solid #eee;
+  border-top: 2px solid #eee;
+  border-bottom: 2px solid #eee;
   padding: 5px 0 5px 0;
 }
 
 #mainmenu nav li {
   display: inline-block;
   list-style: none;
-  margin: 0 40px 0 0;
+  margin: 0 45px 0 0;
 }
 
 #mainmenu li:last-child {
